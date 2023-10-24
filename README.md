@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   i studied the provided project resources, used my available resources and built it to the best of my abilities
 
 ### Screenshot
-![](./qrcodeProject.png)
+![](./qr-code-component-main/qrcodeProject.png)
 
 ### Links
 - Solution URL: https://github.com/InfiniteSyntax30/qrcodeComponent.git
